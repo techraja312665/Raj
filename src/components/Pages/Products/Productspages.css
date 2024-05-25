@@ -1,0 +1,21 @@
+.productpages .pc1{
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+
+.productpages .pc1 .cli{
+    display: flex;
+    justify-content: flex-start;
+    width: 30%;
+}
+
+.productpages .pc1 .cli .imgset{
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    margin: 0px ;
+
+}
